@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Eugenix**
 
-- 🌱 I’m currently learning **Aws(devops),Java**
+- 🌱 I’m currently learning **Aws,Java backend**
 
 - 📫 How to reach me **rahulrajput750584@gmail.com**
 
